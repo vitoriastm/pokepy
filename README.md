@@ -1,6 +1,6 @@
 # Trabalho Computacional - Poképy
 
-### Este projeto **individual** foi elaborado como parte do curso de Introdução à Computação (Introcomp) ministrado pela Universidade Federal do Espírito Santo (UFES) em 2021.
+### Este projeto *individual* foi elaborado como parte do curso de Introdução à Computação (Introcomp) ministrado pela Universidade Federal do Espírito Santo (UFES) em 2021.
 
 ## Observações
 O jogo está em fase de desenvolvimento e pode conter alguns bugs e funcionalidades incompletas, as quais serão abordadas e corrigidas posteriormente.
