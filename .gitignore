@@ -1,1 +1,24 @@
-code/.vscode/settings.json
+# Arquivos temporários
+*.pyc
+__pycache__/
+
+# Ambientes virtuais
+venv/
+env/
+.env/
+
+# Arquivos de log
+*.log
+
+# Cache de arquivos gerados
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de configuração
+*.ini
+*.cfg
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
